@@ -1,4 +1,4 @@
-module github.com/TheFounderSeries/series-kafka-go
+module github.com/TheFounderSeries/series-kafka-SDK-Go
 
 go 1.25.0
 
